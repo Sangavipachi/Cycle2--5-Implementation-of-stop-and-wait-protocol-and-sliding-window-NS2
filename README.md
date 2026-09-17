@@ -1,7 +1,7 @@
 # Cycle2- 5 -Implementation of stop and wait protocol -NS2-
 ## IMPLEMENTATION OF STOP AND WAIT PROTOCOL
-## NAME : K.NITHIYASREE 
-## REG: 212223060188
+## NAME : SANGAVI P
+## REG: 212222060242
 # AIM:
 ## To implement Stop and Wait protocol using NS2 program.
 
