@@ -1,5 +1,7 @@
 # Cycle2- 5 -Implementation of stop and wait protocol -NS2-
 ## IMPLEMENTATION OF STOP AND WAIT PROTOCOL
+## NAME : K.NITHIYASREE 
+## REG: 212223060188
 # AIM:
 ## To implement Stop and Wait protocol using NS2 program.
 
@@ -68,18 +70,8 @@
 ## $ns run
  
 # OUTPUT:
+<img width="1280" height="820" alt="WhatsApp Image 2026-09-05 at 8 45 01 PM" src="https://github.com/user-attachments/assets/938edeb0-95b0-4048-9c66-ea238f90b17d" />
 
-
-
-
-
-## MARK ALLOCATION	TOTAL MARKS	MARKS OBTAINED
-## PERFORMANCE	20	
-## OBSERVATION	20	
-## RECORD	20	
-## OUTPUT	20	
-## VIVA	20	
-## TOTAL	100	
 
 
 
